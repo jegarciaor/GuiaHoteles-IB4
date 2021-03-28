@@ -1,0 +1,2 @@
+# GuiaHoteles-IB4
+Este repositorio se hace como prueba para ensayar los comandos de Bootstrap que se están viendo en el programa: "Diseñando páginas web con Booststrap 4" de Coursera.
