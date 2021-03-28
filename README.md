@@ -7,4 +7,4 @@ La idea con este repositorio es dejar temas y apuntes sobre lo trabajado en dich
 
 Observación: Se van a realizar constantes apuntes sobre comandos y detalles en particular a tener en cuenta.
 
-Además, se va a estar yendo back and forward para ensayar el uso de git en la terminal y su relación con GitHub.
+Además, se va a estar yendo back and forward para ensayar el uso de git en la terminal y su relación con GitHub, pues es importante estar practicando con esta herramienta.
