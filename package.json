@@ -1,0 +1,19 @@
+{
+  "name": "guiahoteles-ib4",
+  "version": "1.0.0",
+  "description": "Primer projecto de NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jegarciaor/GuiaHoteles-IB4.git"
+  },
+  "author": "Jefferson Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jegarciaor/GuiaHoteles-IB4/issues"
+  },
+  "homepage": "https://github.com/jegarciaor/GuiaHoteles-IB4#readme"
+}
